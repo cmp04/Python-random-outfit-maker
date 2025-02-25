@@ -49,7 +49,7 @@ def main():
     cv2.moveWindow("Bottom", 500, 80) 
     cv2.moveWindow("Shoe", 950, 80) 
 
-    cv2.waitKey(3000)
+    cv2.waitKey(30000)
 
 if __name__ == "__main__":
     main()
